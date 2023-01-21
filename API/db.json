@@ -6,16 +6,16 @@
       "dashboard": [
         {
           "cols": 5,
-          "rows": 5,
+          "rows": 6,
           "y": 0,
           "x": 0,
           "name": "Line Chart",
           "component": "Line Chart"
         },
         {
-          "cols": 5,
-          "rows": 5,
-          "x": 5,
+          "cols": 3,
+          "rows": 3,
+          "x": 7,
           "y": 0,
           "name": "Doughnut Chart",
           "component": "Doughnut Chart"
